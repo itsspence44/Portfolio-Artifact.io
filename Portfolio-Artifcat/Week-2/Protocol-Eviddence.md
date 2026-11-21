@@ -1,18 +1,13 @@
-Spencer Ashby 
-11/19/26
-Gina Llanos Cramer
-CCNA 
 
-During Weeks 4-5 I learned different cybersecurity tools and techniques that are used by other programmers/hackers. 
 
-I learned about Splunk, Wireshark, Tcpdump, CyberChef and many more other tools that I can list.
+**During Weeks 4-5** 
 
-I also reviewed some commands such as ipconfig, ping, arp, tracert, and netstat. 
+I learned different cybersecurity tools and techniques that are used by other programmers/hackers.  I learned about Splunk, Wireshark, Tcpdump, CyberChef and many more other tools that I can list. I also reviewed some commands such as ipconfig, ping, arp, tracert, and netstat. 
 
 
 Before I was doing some of the labs I took a look at my notes to understand what tools are used and how they are helpful for cybersecurity employers. This helped me prepare for working with security logs, network information, and vulnerabilities. 
 
-
+--- 
 
 One example from my Week 4 notes was using Splunk to filter and organize security events
 
