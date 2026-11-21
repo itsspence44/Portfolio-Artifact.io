@@ -1,3 +1,3 @@
 # Portfolio-Artifact.io
 ---
-Hocking College CYBER CCNNA Security 
+Hocking College CYBER CCNA Securit
